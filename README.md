@@ -1,5 +1,6 @@
 # HackerHouse Projects Showcase
 
+
 Welcome to the HackerHouse Projects Showcase! This repository features all the amazing projects built during HackerHouse.
 
 ## How to Submit Your Project
